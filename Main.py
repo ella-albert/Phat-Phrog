@@ -1,4 +1,4 @@
-"""Phat Phrog"""
+"""Phat Phrog: a dramatic adoption story that will change your life."""
 __author__ = "Ella Albert"
 
 # I import time because I will use it later to delay print statements.
