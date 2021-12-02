@@ -187,7 +187,8 @@ def enter_store():
 
 
 # Starting off the story
-enter_store()
+if __name__ == "__enter_store__":
+    enter_store()
 
 
 
