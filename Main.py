@@ -49,8 +49,9 @@ def enter_home(name):
     frog_name = input(name + ": 'What should I name this young lad?' ")
     print(name + ": '" + frog_name, "seems like a good name.'")
     print(name + ": 'He looks hungry.'")
-    # The variable x here is used as a guardian for this nested loop.
+    # The variable food here is used as a guardian for this nested loop.
     food = 0
+    # The variable stretch here is the amount of flies input.
     stretch = 0
     while food in range(0, 1):
         while food in range(0, 1):
